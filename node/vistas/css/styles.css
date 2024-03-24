@@ -11,6 +11,16 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
+#openbeauchef{
+
+  padding-top: 20px;
+  width: 350px; /* Por ejemplo, ajusta el ancho según sea necesario */
+  height: auto;
+  transform: scale(1.0); /* Por ejemplo, escala la imagen al 120% */
+  /* Ajusta el valor según sea necesario */
+
+}
+
  #corfo{
   padding-top: 20px;
   width: 350px; /* Por ejemplo, ajusta el ancho según sea necesario */
